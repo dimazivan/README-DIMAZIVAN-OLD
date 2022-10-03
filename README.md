@@ -20,7 +20,7 @@ My name <b>Dimaz Ivan Perdana</b>, ere some information about me.
 <li>🏠 I’m currently live in Surabaya, Jawa Timur, Indonesia </li>
 <li>🔭 Working as web backend developer</i>
 <li>🌱 Learning about react js and API</i>
-<li>✍ My contact informatioan : +62 81 249 847 967</i>
+<li>✍ My contact information : +62 81 249 847 967</i>
 <li>🤖 Pronouns: ID/EN</i>
 </ul>
 
