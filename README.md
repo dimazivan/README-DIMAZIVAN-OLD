@@ -57,5 +57,8 @@ My name <b>Dimaz Ivan Perdana</b> 🤵, here some informations about me.
 <li>Have design experience and use editing tools (Photoshop, Corel,Adobe Premiere)</li>
 </ul>
 <br>
-I hope u can understand and make relation with me <3 <br>
+I hope u can understand and make relation with me <3 
+<br>
+I have some project that i have to private it, so u can contact me if u wanna know :D
+<br>
 <b>Thanks a lot </b>
