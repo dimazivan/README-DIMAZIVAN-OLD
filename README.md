@@ -4,7 +4,8 @@ My name <b>Dimaz Ivan Perdana</b> 🤵, here some informations about me.
 <ul>
 <li>🏠 I’m currently live in Surabaya, Jawa Timur, Indonesia </li>
 <li>🤵 Working as web backend developer</li>
-<li>📚 Learning about react js and API</li>
+<li>📚 Working with API</li>
+<li>📚 Learning about react js</li>
 <li>✍ My contact information :</li>
 <ul>
 <li>📩 Email   : dimazivan740@gmail.com </li>
