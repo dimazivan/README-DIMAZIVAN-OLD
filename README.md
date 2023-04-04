@@ -9,7 +9,8 @@ My name <b>Dimaz Ivan Perdana</b> 🤵, here some informations about me.
 <li>✍ My contact information :</li>
 <ul>
 <li>📩 Email   : dimazivan740@gmail.com </li>
-<li>📞 Contact : +62 81 249 847 967 </li>
+<li><a href="wa.me/+6281249847967" target="_blank">📞 Contact : +62 81 249 847 967 </a></li>
+<li><a href="https://www.linkedin.com/in/dimazivan/" target="_blank">📩 LinkedIn   : https://www.linkedin.com/in/dimazivan/</a></li>
 </ul>
 <li>💬 Pronouns: ID/EN</li>
 </ul>
