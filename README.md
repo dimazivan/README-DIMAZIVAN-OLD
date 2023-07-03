@@ -43,7 +43,7 @@ My name <b>Dimaz Ivan Perdana</b> 🤵, here some informations about me.
 <li>Other Programming Language</li>
 <ul>
 <li>JAVA (Desktop)</li>
-<li>Kotlin (Android)</li>
+<li>JAVA / Kotlin (Android)</li>
 </ul>
 </ul>
 <hr>
