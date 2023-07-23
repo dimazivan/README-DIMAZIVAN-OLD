@@ -61,6 +61,6 @@ My name <b>Dimaz Ivan Perdana</b> 🤵, here some informations about me.
 <br>
 I hope u can understand and make relation with me <3 
 <br>
-I have some project that i have to private it, so u can contact me if u wanna know :D
+I have some project that have to private it, so u can contact me if u wanna buy :) :D
 <br>
 <b>Thanks a lot </b>
