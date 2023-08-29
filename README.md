@@ -36,6 +36,8 @@ My name <b>Dimaz Ivan Perdana</b> 🤵, here some informations about me.
 <ul>
 <li>Laravel</li>
 <li>Codeigniter</li>
+<li>Vue JS</li>
+<li>Express JS</li>
 </ul>
 </ul>
 <hr>
